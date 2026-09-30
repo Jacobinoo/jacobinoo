@@ -14,7 +14,7 @@ Full-stack dev based in Poland, obsessed with new technologies and security.
 
 ### Featured Projects
 
-**[Quartz Drive](https://quartzapp.top?utm_source=github_readme&utm_medium=link)**    
+**[Quartz Drive](https://github.com/jacobinoo/quartz-drive)**    
 A highly secure, end-to-end encrypted cloud storage system, featuring zero-knowledge architecture.
 
 
