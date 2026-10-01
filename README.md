@@ -2,7 +2,7 @@
 
 Full-stack dev based in Poland, obsessed with new technologies and security.
 
-> **Check out my portfolio:** [jacobinoo.github.io](https://jacobinoo.github.io)
+> **Check out my portfolio:** [jacobinoo.github.io](https://jacobinoo.github.io/?utm_source=github_readme1&utm_medium=link&utm_campaign=202610)
 
 > **I'm open to work**
 
@@ -24,4 +24,4 @@ Building [Quartz Drive](https://github.com/jacobinoo/quartz-drive), a high-perfo
 ### Contact Me
 
 * **Email:** [it_bjacob@icloud.com](mailto:it_bjacob@icloud.com)
-* **Portfolio:** [jacobinoo.github.io](https://jacobinoo.github.io/?utm_source=github_readme&utm_medium=link)
+* **Portfolio:** [jacobinoo.github.io](https://jacobinoo.github.io/?utm_source=github_readme2&utm_medium=link&utm_campaign=202610)
