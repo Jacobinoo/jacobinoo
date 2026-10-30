@@ -10,7 +10,7 @@ DevOps & Backend focused dev based in Poland, obsessed with new technologies and
 
 * **Languages & Runtimes:** TypeScript, Go, Node.js, Swift
 * **Frontend:** React, Next.js, Angular, Tailwind CSS, Swift UI
-* **Infrastructure & DevOps:** Linux, Docker, Kubernetes, PostgreSQL, Valkey (Redis fork) S3, Git & GitHub, GitHub Actions, Google Cloud Platform (Compute), OCI Compute, Cloudflare
+* **Infrastructure & DevOps:** Linux, Docker, Kubernetes, Traefik, PostgreSQL, Valkey (Redis fork) S3, Git & GitHub, GitHub Actions, Google Cloud Platform (Compute), OCI Compute, Cloudflare
 
 ### Featured Projects
 
