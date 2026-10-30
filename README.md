@@ -15,7 +15,7 @@ DevOps & Backend focused dev based in Poland, obsessed with new technologies and
 ### Featured Projects
 
 **[Quartz Drive](https://github.com/jacobinoo/quartz-drive)**    
-An, end-to-end encrypted cloud storage system, where the server never sees passwords or plaintext file contents.
+An end-to-end encrypted cloud storage system, where the server never sees passwords or plaintext file contents.
 
 
 ### Currently
