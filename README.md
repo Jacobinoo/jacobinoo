@@ -1,6 +1,6 @@
 # jacobinoo
 
-Full-stack dev based in Poland, obsessed with new technologies and security.
+DevOps & Backend focused dev based in Poland, obsessed with new technologies and security.
 
 > **Check out my portfolio:** [jacobinoo.github.io](https://jacobinoo.github.io/?utm_source=github_readme1&utm_medium=link&utm_campaign=202610)
 
@@ -8,18 +8,18 @@ Full-stack dev based in Poland, obsessed with new technologies and security.
 
 ### Tech & tools I love
 
-* **Languages & Runtimes:** TypeScript, Golang, Node.js, Swift
+* **Languages & Runtimes:** TypeScript, Go, Node.js, Swift
 * **Frontend:** React, Next.js, Angular, Tailwind CSS, Swift UI
-* **Infrastructure & DevOps:** Docker, PostgreSQL, Valkey (Redis fork) S3, Git & GitHub
+* **Infrastructure & DevOps:** Linux, Docker, Kubernetes, PostgreSQL, Valkey (Redis fork) S3, Git & GitHub, GitHub Actions, Google Cloud Platform (Compute), OCI Compute, Cloudflare
 
 ### Featured Projects
 
 **[Quartz Drive](https://github.com/jacobinoo/quartz-drive)**    
-A highly secure, end-to-end encrypted cloud storage system, featuring zero-knowledge architecture.
+An, end-to-end encrypted cloud storage system, where the server never sees passwords or plaintext file contents.
 
 
 ### Currently
-Building [Quartz Drive](https://github.com/jacobinoo/quartz-drive), a high-performance, scalable & end-to-end encrypted cloud storage platform. Privacy for all, by default.
+Building [Quartz Drive](https://github.com/jacobinoo/quartz-drive), an end-to-end encrypted cloud storage platform. Privacy for all, by default.
 
 ### Contact Me
 
